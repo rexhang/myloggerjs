@@ -1,0 +1,17 @@
+{
+  "name": "myloggerjs",
+  "version": "1.0.3",
+  "keywords": [
+    "javascript",
+    "console",
+    "log",
+    "color"
+  ],
+  "description": "五彩斑斓的输出到控制台",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rexhang",
+  "license": "MIT"
+}
